@@ -1,4 +1,4 @@
-Install Project
+## Install Project
 
 For windows,
 In main directory,
