@@ -4,7 +4,7 @@
 * python3
 * pip3
 
-### ## Installation
+### Installation
 
 Go to main directory, run the code below to create a new venv named *env* in your directory
 
