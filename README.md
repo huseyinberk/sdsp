@@ -1,5 +1,10 @@
 ## Install Project
 
+It is a web application that uses a disease prediction model developed with machine learning. 
+It makes certain classifications on diseases from the given data set and asks the user the parameters found on the data set as questions. According to the answers given, it predicts the disease that the user may have. You can view how the prediction algorithm was created in the model directory.
+
+* Changing the parameters in the given data set does not prevent the model from working. 
+
 ### Prerequisites
 * python3
 * pip3
